@@ -1,5 +1,5 @@
 # Building Insurance Claim Prediction#
-##📌 Project Goal
+## 📌 Project Goal
 To build a predictive model that determines the probability of a building having at least one insurance claim. This assists in risk assessment and premium optimization for insurance providers.
 
 ## 🛠️ Key Technical Steps
