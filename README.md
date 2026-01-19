@@ -11,7 +11,7 @@ Preprocessing: Implemented One-Hot Encoding for categorical variables and Standa
 
 Class Imbalance: Applied class_weight='balanced' to improve the detection of claims in an imbalanced dataset.
 
-## 📈 Model Performance#
+## 📈 Model Performance
 I evaluated two models to compare baseline linear performance against non-linear complexity:
 
 Logistic Regression: Provided a baseline with high interpretability.
