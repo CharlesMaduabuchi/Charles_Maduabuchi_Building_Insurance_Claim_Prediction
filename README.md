@@ -14,7 +14,7 @@ To build a predictive model that determines the probability of a building having
 ## 📈 Model Performance
 I evaluated two models to compare baseline linear performance against non-linear complexity:
 
-Logistic Regression: Provided a baseline with high interpretability.
+**Logistic Regression:** Provided a baseline with high interpretability.
 
 XGBoost/Random Forest: Achieved a higher ROC-AUC (~0.74), successfully capturing complex interactions between building size and location.
 
